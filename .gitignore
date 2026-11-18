@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+
+dataset/*.xlsx
+
+clustered_customers.csv
+k3_cluster_analysis.csv
+k4_cluster_analysis.csv
